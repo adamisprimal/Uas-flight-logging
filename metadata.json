@@ -1,0 +1,5 @@
+{
+  "name": "SkyLog Pro",
+  "description": "Professional drone flight logging and fleet management system for pilots and operators.",
+  "requestFramePermissions": ["geolocation"]
+}
